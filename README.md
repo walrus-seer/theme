@@ -1,1 +1,1 @@
-this is for he shopify theme
+this is for the shopify theme
