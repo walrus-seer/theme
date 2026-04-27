@@ -1,0 +1,445 @@
+{
+  "sections": {
+    "main": {
+      "type": "main-page",
+      "disabled": true,
+      "settings": {}
+    },
+    "16540498779afc678b": {
+      "type": "hero",
+      "blocks": {
+        "6c5b032a-0a6b-4a5e-8fd0-28f11a0b20ab": {
+          "type": "subtitle",
+          "settings": {
+            "subtitle": "Our Story"
+          }
+        },
+        "16540498776329c8d1-0": {
+          "type": "title",
+          "settings": {
+            "title": "Empire Capsule",
+            "highlight_style": "none",
+            "enable_highlight_text_color": false,
+            "heading_size": "h-xl",
+            "heading_color": ""
+          }
+        }
+      },
+      "block_order": [
+        "6c5b032a-0a6b-4a5e-8fd0-28f11a0b20ab",
+        "16540498776329c8d1-0"
+      ],
+      "settings": {
+        "container": "container-full",
+        "image_overlay_opacity": 0,
+        "hero_height": "adapt",
+        "content_in_container": true,
+        "content_position": "center",
+        "text_alignment": "center",
+        "text_color": "#ffffff",
+        "hero_height_mobile": "large",
+        "content_position_mobile": "center",
+        "show_text_below": false,
+        "text_alignment_mobile": "center",
+        "custom_id": "",
+        "custom_class": "",
+        "animations": "inherit",
+        "enable_bg_zoom_effect": true
+      }
+    },
+    "16540501175e796680": {
+      "type": "rich-text",
+      "blocks": {
+        "1654050117f10d5d66-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "Festival season is about to be in full swing and <em>we can’t wait.</em>",
+            "highlight_style": "none",
+            "enable_highlight_text_color": false,
+            "heading_size": "h1",
+            "heading_color": ""
+          }
+        },
+        "1654050117f10d5d66-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Sustainability is the epitome of allure in modern fashion. Our workout wear collection embodies this ethos, seamlessly blending eco-consciousness with undeniable sexiness. From sleek designs to flattering cuts, each piece exudes confidence and style while leaving a minimal environmental footprint. l world where human progress is in harmony with the planet's.</p>"
+          }
+        }
+      },
+      "block_order": [
+        "1654050117f10d5d66-0",
+        "1654050117f10d5d66-1"
+      ],
+      "custom_css": [
+        ".rich-text__heading {width: 100%; max-width: 58rem; margin: 0 auto;}"
+      ],
+      "settings": {
+        "container": "container-narrow",
+        "color_schema": "background-1",
+        "text_alignment": "center",
+        "padding_top": 100,
+        "padding_bottom": 0,
+        "show_section_divider": false,
+        "divider_width": "container",
+        "custom_id": "",
+        "custom_class": "",
+        "animations": "inherit"
+      }
+    },
+    "8cada7c1-f0b3-48e7-8f44-9ac2bbdf7fe2": {
+      "type": "collage-tabs",
+      "blocks": {
+        "template--17157701599458__8cada7c1-f0b3-48e7-8f44-9ac2bbdf7fe2-tab-1": {
+          "type": "tab",
+          "settings": {
+            "content_color_schema": "accent",
+            "navigation_title": "2019",
+            "heading": "Our Journey",
+            "highlight_style": "none",
+            "enable_highlight_text_color": false,
+            "heading_size": "h1",
+            "heading_color": "",
+            "subheading": "the first step",
+            "description": "<p>The story of our brand is one of passion, perseverance, and purpose. It all started with a desire to do better – to create activewear that not only looked good but also did good. Fueled by a love for fitness and a deep respect for the environment, our founder embarked on a journey to redefine the industry norms. Drawing inspiration from nature's colors and patterns, they set out to design workout wear that was not only stylish and functional but also eco-friendly.</p>",
+            "text_alignment": "left",
+            "button_label": "",
+            "button_link": "#",
+            "button_style": "btn--primary",
+            "mobile_text_alignment": "inherit"
+          }
+        },
+        "bf0e39bb-afe7-4aed-96d7-0a79da248101": {
+          "type": "tab",
+          "settings": {
+            "content_color_schema": "accent",
+            "navigation_title": "2022",
+            "heading": "Establishing",
+            "highlight_style": "none",
+            "enable_highlight_text_color": false,
+            "heading_size": "h1",
+            "heading_color": "",
+            "subheading": "made significant",
+            "description": "<p>Flairy made significant strides in establishing itself as a prominent player in the fashion industry. We expanded our product line to include a diverse range of clothing and accessories, each crafted with meticulous attention to detail and quality. Through innovative designs and customer-centric approaches, we garnered a loyal following and began to carve our niche in the competitive market.</p>",
+            "text_alignment": "left",
+            "button_label": "",
+            "button_link": "#",
+            "button_style": "btn--primary",
+            "mobile_text_alignment": "inherit"
+          }
+        },
+        "ecdcc2e7-dc1a-4dc9-9f6d-519779df0e51": {
+          "type": "tab",
+          "settings": {
+            "content_color_schema": "accent",
+            "navigation_title": "2023",
+            "heading": "Our Successes",
+            "highlight_style": "none",
+            "enable_highlight_text_color": false,
+            "heading_size": "h1",
+            "heading_color": "",
+            "subheading": "Building upon",
+            "description": "<p>We focused on sustainability and ethical practices, striving to minimize our environmental footprint while maintaining our commitment to delivering exceptional products. Collaborations with renowned designers and influencers further elevated our brand presence, allowing us to reach new audiences and expand our global reach. As we continue to evolve and adapt to the ever-changing landscape of fashion, Flairy remains dedicated to inspiring confidence.</p>",
+            "text_alignment": "left",
+            "button_label": "",
+            "button_link": "#",
+            "button_style": "btn--primary",
+            "mobile_text_alignment": "inherit"
+          }
+        }
+      },
+      "block_order": [
+        "template--17157701599458__8cada7c1-f0b3-48e7-8f44-9ac2bbdf7fe2-tab-1",
+        "bf0e39bb-afe7-4aed-96d7-0a79da248101",
+        "ecdcc2e7-dc1a-4dc9-9f6d-519779df0e51"
+      ],
+      "custom_css": [
+        ".f-collage-tab--heading {--text-blocks-gap: 1.6rem;"
+      ],
+      "settings": {
+        "container": "container",
+        "color_schema": "",
+        "tab_heading_size": "h4",
+        "desktop_navigation_alignment": "center",
+        "desktop_image_position": "left",
+        "desktop_image_width": 50,
+        "image_aspect_ratio": "adapt",
+        "padding_top": 80,
+        "padding_bottom": 0,
+        "show_section_divider": false,
+        "divider_width": "container",
+        "custom_id": "",
+        "custom_class": "",
+        "animations": "inherit"
+      }
+    },
+    "45e4c2ac-12b8-4ed1-a789-75b4dbc9c578": {
+      "type": "multicolumn",
+      "blocks": {
+        "template--17157701599458__45e4c2ac-12b8-4ed1-a789-75b4dbc9c578-column-1": {
+          "type": "column",
+          "settings": {
+            "show_image": true,
+            "title": "Good Quality",
+            "heading_size": "h4",
+            "text": "<p>Every piece is built to withstand the rigors of your active lifestyle, so you can feel confident and comfortable every time you wear it.</p>",
+            "text_size": "medium",
+            "button_text": "",
+            "button_link": "",
+            "button_style": "btn--underline"
+          }
+        },
+        "23738779-93a8-4a1b-aa4a-382808fc8419": {
+          "type": "column",
+          "settings": {
+            "show_image": true,
+            "title": "Sustability",
+            "heading_size": "h4",
+            "text": "<p>From using recycled materials to reducing energy consumption, we're constantly seeking innovative ways to make our brand sustainable.</p>",
+            "text_size": "medium",
+            "button_text": "",
+            "button_link": "",
+            "button_style": "btn--underline"
+          }
+        },
+        "62b69dd1-a1f1-4028-9f0c-bf65a341a11c": {
+          "type": "column",
+          "settings": {
+            "show_image": true,
+            "title": "Individuality",
+            "heading_size": "h4",
+            "text": "<p>Whether you prefer bold prints or classic neutrals, fitted leggings or loose-fitting tops, we've got something for everyone.</p>",
+            "text_size": "medium",
+            "button_text": "",
+            "button_link": "",
+            "button_style": "btn--underline"
+          }
+        }
+      },
+      "block_order": [
+        "template--17157701599458__45e4c2ac-12b8-4ed1-a789-75b4dbc9c578-column-1",
+        "23738779-93a8-4a1b-aa4a-382808fc8419",
+        "62b69dd1-a1f1-4028-9f0c-bf65a341a11c"
+      ],
+      "custom_css": [],
+      "settings": {
+        "container": "container",
+        "color_schema": "",
+        "section_header_padding_bottom": "medium",
+        "section_header_content_spacing": "medium",
+        "heading": "",
+        "highlight_style": "none",
+        "enable_highlight_text_color": false,
+        "heading_size": "h2",
+        "heading_color": "",
+        "subheading": "",
+        "description": "",
+        "layout": "vertical",
+        "text_alignment": "center",
+        "image_width": "small",
+        "custom_image_width": 80,
+        "columns": 3,
+        "column_gap": "extra-large",
+        "row_gap": "medium",
+        "enable_swipe_mobile": false,
+        "column_mobile": "1",
+        "padding_top": 100,
+        "padding_bottom": 100,
+        "show_section_divider": false,
+        "divider_width": "container",
+        "custom_id": "",
+        "custom_class": "",
+        "animations": "inherit"
+      }
+    },
+    "16540503155db15864": {
+      "type": "image-with-text",
+      "blocks": {
+        "1654050315a020c10e-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "Reclaimed Waste <em>Cotton Fabric</em>",
+            "highlight_style": "none",
+            "enable_highlight_text_color": false,
+            "heading_size": "h1"
+          }
+        },
+        "1654050315a020c10e-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Each piece embodies our commitment to environmental responsibility by repurposing materials that would otherwise go to waste. By utilizing reclaimed cotton, we not only reduce our carbon footprint but also contribute to a circular economy, where resources are reused and recycled. With every purchase, you're not just investing in quality activewear; you're making a conscious choice to support a greener, more sustainable future for fashion.</p>"
+          }
+        }
+      },
+      "block_order": [
+        "1654050315a020c10e-0",
+        "1654050315a020c10e-1"
+      ],
+      "custom_css": [
+        ".image-with-text__heading {max-width: 40rem;}"
+      ],
+      "settings": {
+        "container": "container",
+        "color_schema": "background-1",
+        "image_width": "50%",
+        "image_position": "left",
+        "vertical_alignment": "center",
+        "column_gap": "none",
+        "row_gap": "medium",
+        "padding_left": 120,
+        "padding_right": 172,
+        "align_content_container": "none",
+        "mobile_padding_left": 0,
+        "mobile_padding_right": 0,
+        "padding_top": 100,
+        "padding_bottom": 0,
+        "padding_top_mobile": 60,
+        "padding_bottom_mobile": 0,
+        "show_section_divider": true,
+        "divider_width": "container-full",
+        "custom_id": "",
+        "custom_class": "",
+        "animations": "inherit"
+      }
+    },
+    "16540504704fa88658": {
+      "type": "image-with-text",
+      "blocks": {
+        "1654050470051141b0-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "Our Community <em>& Partners</em>",
+            "highlight_style": "none",
+            "enable_highlight_text_color": false,
+            "heading_size": "h1"
+          }
+        },
+        "1654050470051141b0-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Through strategic alliances with sustainable suppliers and grassroots organizations, each product reflects a shared commitment to social and environmental responsibility. By wearing our workout wear, you're not only embracing a healthier lifestyle but also aligning yourself with a community dedicated to driving positive change. Together, we're building a future where fashion is synonymous with sustainability, and every purchase supports our collective journey towards a better world.</p>"
+          }
+        }
+      },
+      "block_order": [
+        "1654050470051141b0-0",
+        "1654050470051141b0-1"
+      ],
+      "custom_css": [
+        ".image-with-text__heading {max-width: 40rem;}"
+      ],
+      "settings": {
+        "container": "container",
+        "color_schema": "background-1",
+        "image_width": "50%",
+        "image_position": "right",
+        "vertical_alignment": "center",
+        "column_gap": "none",
+        "row_gap": "medium",
+        "padding_left": 162,
+        "padding_right": 130,
+        "align_content_container": "none",
+        "mobile_padding_left": 0,
+        "mobile_padding_right": 0,
+        "padding_top": 100,
+        "padding_bottom": 0,
+        "padding_top_mobile": 60,
+        "padding_bottom_mobile": 0,
+        "show_section_divider": false,
+        "divider_width": "container",
+        "custom_id": "",
+        "custom_class": "",
+        "animations": "inherit"
+      }
+    },
+    "a16d91be-b626-44c9-8cae-a679dc435c62": {
+      "type": "multicolumn",
+      "blocks": {
+        "template--17157701599458__a16d91be-b626-44c9-8cae-a679dc435c62-column-1": {
+          "type": "column",
+          "settings": {
+            "show_image": true,
+            "title": "Our Recycled Fabric",
+            "heading_size": "h3",
+            "text": "<p>Fresh styles. Fresh colors.<br/>The countdown for summer has started.</p>",
+            "text_size": "medium",
+            "button_text": "",
+            "button_link": "",
+            "button_style": "btn--underline"
+          }
+        },
+        "template--17157701599458__a16d91be-b626-44c9-8cae-a679dc435c62-column-2": {
+          "type": "column",
+          "settings": {
+            "show_image": true,
+            "title": "Sustainability",
+            "heading_size": "h3",
+            "text": "<p>The brands we feature have all paved the way for sustainability in swimwearconscious she fee</p>",
+            "text_size": "medium",
+            "button_text": "",
+            "button_link": "",
+            "button_style": "btn--underline"
+          }
+        },
+        "template--17157701599458__a16d91be-b626-44c9-8cae-a679dc435c62-column-3": {
+          "type": "column",
+          "settings": {
+            "show_image": true,
+            "title": "Disruptive Design",
+            "heading_size": "h3",
+            "text": "<p>It’s not surprising, considering that we’re a group of eco-conscious, recycling-loving.</p>",
+            "text_size": "medium",
+            "button_text": "",
+            "button_link": "",
+            "button_style": "btn--underline"
+          }
+        }
+      },
+      "block_order": [
+        "template--17157701599458__a16d91be-b626-44c9-8cae-a679dc435c62-column-1",
+        "template--17157701599458__a16d91be-b626-44c9-8cae-a679dc435c62-column-2",
+        "template--17157701599458__a16d91be-b626-44c9-8cae-a679dc435c62-column-3"
+      ],
+      "custom_css": [],
+      "settings": {
+        "container": "container",
+        "color_schema": "",
+        "section_header_padding_bottom": "large",
+        "section_header_content_spacing": "medium",
+        "heading": "Eco-Conscious",
+        "highlight_style": "none",
+        "enable_highlight_text_color": false,
+        "heading_size": "h1",
+        "heading_color": "",
+        "subheading": "",
+        "description": "",
+        "layout": "vertical",
+        "text_alignment": "left",
+        "image_width": "fullwidth",
+        "custom_image_width": 80,
+        "columns": 3,
+        "column_gap": "large",
+        "row_gap": "medium",
+        "enable_swipe_mobile": true,
+        "column_mobile": "1",
+        "padding_top": 100,
+        "padding_bottom": 100,
+        "show_section_divider": false,
+        "divider_width": "container",
+        "custom_id": "",
+        "custom_class": "",
+        "animations": "inherit"
+      }
+    }
+  },
+  "order": [
+    "main",
+    "16540498779afc678b",
+    "16540501175e796680",
+    "8cada7c1-f0b3-48e7-8f44-9ac2bbdf7fe2",
+    "45e4c2ac-12b8-4ed1-a789-75b4dbc9c578",
+    "16540503155db15864",
+    "16540504704fa88658",
+    "a16d91be-b626-44c9-8cae-a679dc435c62"
+  ]
+}
